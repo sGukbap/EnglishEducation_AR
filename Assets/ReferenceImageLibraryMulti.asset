@@ -21,8 +21,8 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 15065866499326171537
       m_GuidHigh: 9684969600348943643
-    m_Size: {x: 1, y: 1}
-    m_SpecifySize: 1
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
     m_Name: Apple
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
@@ -31,7 +31,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 17236408284798830465
       m_GuidHigh: 851076647485146281
-    m_Size: {x: 1, y: 1.1134146}
-    m_SpecifySize: 1
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
     m_Name: Bear
     m_Texture: {fileID: 0}
