@@ -1,6 +1,7 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
-guid: e1a6ce8343be64e4c99e75548368595c
+<<<<<<< HEAD
+guid: d6529d57cb3f7b94887c1b9d49e98390
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
@@ -11,6 +12,13 @@ timeCreated: 1570700785
 licenseType: Store
 DefaultImporter:
 >>>>>>> 599636a77de1cb43c2da4d308452435e9a2b711b
+=======
+guid: da51ddede9ab83e42b4d705d626eab08
+folderAsset: yes
+timeCreated: 1484064444
+licenseType: Store
+DefaultImporter:
+>>>>>>> parent of 1598035... 1.2
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -238,7 +238,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4dea56a9eaadd1c439095de4f9a371cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_SerializedLibrary: {fileID: 11400000, guid: e2e2834c85ccc104baacc05ef6894bd4,
+  m_SerializedLibrary: {fileID: 11400000, guid: 4cc88e6d284933746861a705bd1fa93e,
     type: 2}
   m_MaxNumberOfMovingImages: 0
   m_TrackedImagePrefab: {fileID: 0}
@@ -256,9 +256,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   markerList:
   - name: Apple
-    gobj: {fileID: 805731154}
+    obj: {fileID: 805731154}
   - name: Bear
-    gobj: {fileID: 604111205}
+    obj: {fileID: 604111205}
   manager: {fileID: 421581209}
 --- !u!1 &604111205
 GameObject:
@@ -374,7 +374,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4000011667685464, guid: 8fa35cdad352cfa4297d3be64705ecf1, type: 3}
       propertyPath: m_LocalPosition.y
+<<<<<<< HEAD
       value: 0
+=======
+      value: -0.564
+>>>>>>> parent of 1598035... 1.2
       objectReference: {fileID: 0}
     - target: {fileID: 4000011667685464, guid: 8fa35cdad352cfa4297d3be64705ecf1, type: 3}
       propertyPath: m_LocalPosition.z
